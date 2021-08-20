@@ -3,8 +3,8 @@ This repo contains reference codes of phylogenetic analysis of * Saccharum offic
 [Peripheral structures in unlabelled trees and the accumulation of subgenomes in the evolution of polyploids]()\
 Pouryaha, F.\, Sankoff, D.\
 Submitted to the Journal of Theoretical Biology, 2021. 
-* [Overview]
-* [Data]
+*[Overview]
+*[Data]
 
 ## Overview
 Many angiosperms have undergone some series of polyploidization events during their evolution. In these genomes, it may be relatively easy to recognize all $\xi$ sets of *n* homeologous chromosomes, but it is much harder, if not impossible, to partition these chromosomes into *n* subgenomes, each representing one distinct genomic component of $\xi$ chromosomes making up the original polyploid.
