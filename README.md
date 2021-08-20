@@ -10,5 +10,5 @@ We suggest that despite of lacking a consistent 1-1 correspondence between the c
 In this paper, we present a statistical test to assess whether the subgenomes in a polyploid could have been added one at a time. The null hypothesis is that the accumulation of chromosomes follows a stochastic process in which transition from one generation to the next is through randomly choosing an edge, and then subdividing this edge in order to link the new internal vertex to a new external vertex.
 
 ## Data	
-[Autooctoploid sugarcane genome elucidates sucrose accumulation and female restitution.]()\
+[Autooctoploid sugarcane genome elucidates sucrose accumulation and female restitution]()\
 Ming, R. \ et al. In press 2021.
