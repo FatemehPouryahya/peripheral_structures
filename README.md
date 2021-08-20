@@ -12,5 +12,3 @@ In this paper, we present a statistical test to assess whether the subgenomes in
 ## Data	
 [Autooctoploid sugarcane genome elucidates sucrose accumulation and female restitution]()\
 Ming, R. \ et al. In press 2021.
-###Note
-Gene families extracted via [CoGe](https://genomevolution.org/coge/)\
