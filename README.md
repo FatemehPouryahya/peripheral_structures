@@ -1,5 +1,5 @@
 # Peripheral structures in unlabelled trees and the accumulation of subgenomes in the evolution of polyploids
-This repo contains reference codes of phylogenetic analysis of Saccharum officinarum described in the following paper:
+This repo contains reference codes of phylogenetic analysis of Saccharum officinarum as described in the following paper:
 
 [Peripheral structures in unlabelled trees and the accumulation of subgenomes in the evolution of polyploids]()\
 Pouryaha, F.\, Sankoff, D.\
